@@ -1,8 +1,8 @@
 <h1 align="center">Hii 👋, I'm Abhishek Jamkar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/81RA.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://i.gifer.com/81RA.gif"> -->
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjamkar&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjamkar" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjamkar&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjamkar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
